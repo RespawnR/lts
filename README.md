@@ -2,5 +2,4 @@
 learn typescript
 
 test ssh
-
-my
+test user.name
