@@ -1,0 +1,30 @@
+{
+  "name": "lts",
+  "version": "1.0.0",
+  "description": "learn typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seigann/lts.git"
+  },
+  "author": "seigann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seigann/lts/issues"
+  },
+  "homepage": "https://github.com/seigann/lts#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/parser": "^5.29.0",
+    "eslint": "^8.18.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.30.1",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  }
+}
