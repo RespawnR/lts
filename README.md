@@ -1,0 +1,2 @@
+# lts
+learn typescript
